@@ -92,7 +92,10 @@ namespace C_sharp_DZ_4_2
         {
             this._invoiceNumber = _invoiceNumber;
         }
-        public virtual void 
+        public virtual void Change()
+        {
+            
+        }
 
     }
     class Сoming : ProductManagement      //Приход
